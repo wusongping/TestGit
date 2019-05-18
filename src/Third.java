@@ -8,6 +8,6 @@ public class Third {
 
     public static void main(String[] args) {
         System.out.println("Third.main");
-        System.out.println(";iogh;alhg;lasghnalhg;als/ghk.gn.");
+        System.out.println(";iogh;alhg;lasgbhnalhg;als/ghk.gn.");
     }
 }
